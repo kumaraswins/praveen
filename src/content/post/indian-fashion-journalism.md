@@ -1,6 +1,6 @@
 ---
 publishDate: 2023-08-25T00:00:00Z
-title: Indian Fashion Journalism Insights
+title: Crafting a New Narrative - Redefining Fashion Journalism in India
 excerpt: Indian Fashion 
 image: https://www.esamskriti.com/essays/docfile/13_4900.jpg
 category: indian fashion

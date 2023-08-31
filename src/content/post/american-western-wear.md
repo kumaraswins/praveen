@@ -2,7 +2,7 @@
 publishDate: 2023-08-31T00:00:00Z
 title: Exploring Origins, Review Culture, and the Power of Language in American Western Wear and Film Critique
 excerpt: American western wear
-image: /src/assets/images/image.png
+image: https://imageupload.io/ib/YgOB46f8ZdcuYqF_1693462791.png
 category: American western wear
 tags:
   - fashion
