@@ -3,7 +3,7 @@ publishDate: 2023-08-25T00:00:00Z
 title: Indian Fashion Journalism Insights
 excerpt: Indian Fashion 
 image: https://www.esamskriti.com/essays/docfile/13_4900.jpg
-category: Computer Vision
+category: indian fashion
 tags:
   - fashion
   - India
